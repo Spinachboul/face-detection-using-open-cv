@@ -1,6 +1,6 @@
 # Computer-Vision
 This model of Pyhton uses the libraries uses OpenCv and simple facerec
-We feeded some pictures of celebs and some pictures of own peers to predict the acccuracy of the model, and believe me, it was not so bad
+We fed some pictures of celebs and some pictures of our own peers to predict the accuracy of the model and believe me, it was not so bad!!
 
 ## Pictures
 <h2>ELON MUSK</h2>
